@@ -9,5 +9,5 @@ func AnotherFn() string {
 }
 
 func EvenMore() string {
-	return "Foo"
+	return "Sha"
 }
