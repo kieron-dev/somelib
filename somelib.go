@@ -7,3 +7,7 @@ func DoIt() string {
 func AnotherFn() string {
 	return "Bar"
 }
+
+func EvenMore() string {
+	return "Foo"
+}
