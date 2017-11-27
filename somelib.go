@@ -5,5 +5,5 @@ func DoIt() string {
 }
 
 func AnotherFn() string {
-	return "foo"
+	return "bar"
 }
