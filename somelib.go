@@ -11,3 +11,7 @@ func AnotherFn() string {
 func EvenMore() string {
 	return "Sha"
 }
+
+func Another() string {
+	return "?"
+}
