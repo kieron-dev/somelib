@@ -13,5 +13,5 @@ func EvenMore() string {
 }
 
 func Another() string {
-	return "?"
+	return "??"
 }
